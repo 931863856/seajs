@@ -1,0 +1,30 @@
+{
+  "name": "seajsdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.16.0",
+    "gulp": "^3.9.1",
+    "gulp-seajs-combine": "^0.3.3",
+    "gulp-seajs-combo": "^1.2.3",
+    "run-sequence": "^1.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seajs/examples.git"
+  },
+  "keywords": [
+    "sea"
+  ],
+  "author": "llx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seajs/examples/issues"
+  },
+  "homepage": "https://github.com/seajs/examples#readme"
+}
